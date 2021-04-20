@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "spring.hikari.maximum-pool-size.minimum-idle.auto-commit.idle-timeout.pool-name.max-lifetime",
+      "type": "java.lang.String",
+      "description": "Description for spring.hikari.maximum-pool-size.minimum-idle.auto-commit.idle-timeout.pool-name.max-lifetime."
+    },
+    {
+      "name": "spring.hikari.maximum-pool-size.minimum-idle.auto-commit.idle-timeout.pool-name.max-lifetime",
+      "type": "java.lang.String",
+      "description": "Description for spring.hikari.maximum-pool-size.minimum-idle.auto-commit.idle-timeout.pool-name.max-lifetime."
+    }
+  ] }
