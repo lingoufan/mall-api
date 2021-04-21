@@ -1,4 +1,4 @@
-package top.liekai.mallapi;
+package top.liekai.mall.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package top.liekai.mallapi.common;
+package top.liekai.mall.api.common;
 
 /**
  * @author zfdu
