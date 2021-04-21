@@ -5,7 +5,7 @@ import top.liekai.mall.api.entity.MallUser;
 import java.util.List;
 
 /**
- * @Entity top.liekai.mall.api.entity.MallUser
+ * @Entity top.liekai.mall.api.entity.MallUserVO
  */
 public interface MallUserMapper {
     int deleteByPrimaryKey(Long id);
