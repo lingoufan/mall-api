@@ -11,14 +11,10 @@ import java.util.List;
 import static org.junit.jupiter.api.Assertions.*;
 
 @SpringBootTest
-class MallUserVOMapperTest {
+class MallUserMapperTest {
     @Resource
     private  MallUserMapper mallUserMapper;
 
-    @Test
-    void selectAll() {
-        List<MallUser> mallUsers = mallUserMapper.selectAll();
-        System.out.println(mallUsers);
-    }
+
 
 }
