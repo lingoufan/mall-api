@@ -7,6 +7,7 @@ import top.liekai.mall.api.entity.MallUserToken;
  */
 public interface MallUserTokenMapper {
 
+    MallUserToken selectByToken(String token);
 }
 
 

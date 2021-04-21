@@ -15,4 +15,7 @@
         user_id,token,update_time,
         expire_time
     </sql>
+    <select id="selectByToken" resultType="top.liekai.mall.api.entity.MallUserToken">
+
+    </select>
 </mapper>

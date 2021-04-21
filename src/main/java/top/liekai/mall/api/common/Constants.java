@@ -3,9 +3,9 @@ package top.liekai.mall.api.common;
 /**
  * @author admin
  * @date 2021/4/20
- * @description Contants
+ * @description Constants
  */
-public class Contants {
+public class Constants {
     /**
      * 上传文件的默认url前缀， 根据自己情况修改，
      * windows 写法："D:\\upload\\"
